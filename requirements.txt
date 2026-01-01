@@ -1,0 +1,6 @@
+fastapi>=0.95
+uvicorn[standard]>=0.20
+SQLAlchemy>=1.4
+python-multipart>=0.0.6
+python-dotenv>=0.21
+psycopg2-binary>=2.9  # нужен при использовании Postgres
